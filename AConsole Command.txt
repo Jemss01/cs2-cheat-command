@@ -32,7 +32,8 @@ sv_accelerate_use_weapon_speed 0;sv_staminarecoveryrate 0;sv_autobunnyhopping 1;
 sv_airaccelerate 12;sv_air_max_wishspeed 180;sv_gravity 800;
 sv_grenade_trajectory_prac_pipreview 1;r_shadows 0;cam_collision 0;
 sv_accelerate_use_weapon_speed 0;r_shadows 0;spec_show_xray 1;
-bot_max_visible_smoke_length 0; sv_showimpacts 1;r_drawtracers_firstperson 1; r_fullscreen_gamma 3; mat_fullbright 1; r_csgo_no_shader_resolve 1
+bot_max_visible_smoke_length 0; sv_showimpacts 1;r_drawtracers_firstperson 1;
+r_fullscreen_gamma 3; mat_fullbright 1; r_csgo_no_shader_resolve 1; mp_drop_knife_enable 1
 
 
 << LEGIT CHEATS >>
@@ -42,7 +43,8 @@ sv_staminajumpcost 0.080;sv_accelerate_use_weapon_speed 0;sv_staminarecoveryrate
 sv_autobunnyhopping 1;sv_airaccelerate 12;sv_falldamage_scale 0;fov_cs_debug 110;
 r_drawskybox 0;r_drawparticles 0;sv_air_max_wishspeed 30;cam_collision 0;
 sv_grenade_trajectory_prac_pipreview 1;cam_collision 0;r_shadows 0;spec_show_xray 1;
-bot_max_visible_smoke_length 0; sv_showimpacts 1;r_drawtracers_firstperson 1; r_fullscreen_gamma 3; mat_fullbright 1; r_csgo_no_shader_resolve 1
+bot_max_visible_smoke_length 0; sv_showimpacts 1;r_drawtracers_firstperson 1; 
+r_fullscreen_gamma 3; mat_fullbright 1; r_csgo_no_shader_resolve 1; mp_drop_knife_enable 1
 
 
 < BINDS (ʀᴇᴍᴏᴠᴇ ᴛʜᴇ "" ᴀɴᴅ ᴘᴜᴛ ʏᴏᴜʀ ᴏᴡɴ ʙɪɴᴅs) >
