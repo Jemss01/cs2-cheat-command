@@ -1,0 +1,87 @@
+
+
+
+----------------------------------------------
+ᴄᴏᴍᴍᴀɴᴅ ғᴏʀ ᴄʜᴇᴀᴛs (ᴏɴʟʏ ɪɴ ᴘʀᴀᴄᴛɪᴄᴇ sᴇʀᴠᴇʀs)
+----------------------------------------------
+
+
+
+
+
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+**NOTE BEFORE USING CHEAT COMMAND: make sure you have ambient occlusion ON (MED or HIGH),
+if its disabled, wallhack wont show up. 
+
+And ALSO this is NOT an ACTUAL CHEAT, it is ONLY
+USED for PRACTICE SERVERS. THIS IS NOT BANNABLE.**
+-------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
+
+
+
+
+
+
+<<< RAGE CHEATS >>>
+sv_cheats 1;r_aoproxy_show 1;weapon_accuracy_nospread 1;view_punch_decay 999999;fov_cs_debug 110;
+r_drawskybox 0;r_drawparticles 0;sv_falldamage_scale 0;sv_enablebunnyhopping 0;
+sv_maxvelocity 7000;sv_staminamax 0;sv_staminalandcost 0;sv_staminajumpcost 0;
+sv_accelerate_use_weapon_speed 0;sv_staminarecoveryrate 0;sv_autobunnyhopping 1;
+sv_airaccelerate 12;sv_air_max_wishspeed 180;sv_gravity 800;
+sv_grenade_trajectory_prac_pipreview 1;r_shadows 0;cam_collision 0;
+sv_accelerate_use_weapon_speed 0;r_shadows 0;spec_show_xray 1;
+bot_max_visible_smoke_length 0; sv_showimpacts 1;r_drawtracers_firstperson 1;
+cl_crosshair_recoil 1; r_fullscreen_gamma 3; mat_fullbright 1; r_csgo_no_shader_resolve 1
+
+
+<< LEGIT CHEATS >>
+sv_cheats 1;r_aoproxy_show 1;weapon_accuracy_nospread 1;view_punch_decay 999999;
+sv_enablebunnyhopping 0;sv_maxvelocity 3500;sv_staminamax 0;sv_staminalandcost 0.050;
+sv_staminajumpcost 0.080;sv_accelerate_use_weapon_speed 0;sv_staminarecoveryrate 0;
+sv_autobunnyhopping 1;sv_airaccelerate 12;sv_falldamage_scale 0;fov_cs_debug 110;
+r_drawskybox 0;r_drawparticles 0;sv_air_max_wishspeed 30;cam_collision 0;
+sv_grenade_trajectory_prac_pipreview 1;cam_collision 0;r_shadows 0;spec_show_xray 1;
+bot_max_visible_smoke_length 0; sv_showimpacts 1;r_drawtracers_firstperson 1;
+cl_crosshair_recoil 1; r_fullscreen_gamma 3; mat_fullbright 1; r_csgo_no_shader_resolve 1
+
+
+< BINDS (ʀᴇᴍᴏᴠᴇ ᴛʜᴇ "" ᴀɴᴅ ᴘᴜᴛ ʏᴏᴜʀ ᴏᴡɴ ʙɪɴᴅs) >
+bind "_" "host_timescale 0.1; fov_cs_debug 50"
+bind "_" "host_timescale 1; fov_cs_debug 130"
+bind "_" fov_cs_debug 0  -(this one is to reset the fov and i forgot to put in the video)-
+bind "_" thirdperson
+bind "_" firstperson
+
+
+< CROSSHAIRS (ᴏᴘᴛɪᴏɴᴀʟ) >
+  [sniper crosshair thing idk (MOSTLY USED IN THIRDPERSON) its not the best]
+* NOTE: i'm not sure what the "best" cheater crosshair looks like but heres 2: *
+
+  >  CSGO-7DYo5-Cmacv-RQOJq-64ZED-PURqJ   <
+
+  [or a circle/square crosshair (LIKE FOV THING) for fun]
+* NOTE: please set the thickness to 25 or anything above 20,
+AND turn on the fake crosshair from the video to aim properly: *
+  
+  >  CSGO-ZWtok-q9NVS-hGYD8-G8biN-8nPcF   <
+
+
+
+                --------------------------------------------------------
+                --------------------------------------------------------
+
+                ███████╗░█████╗░██╗░░░░░██╗░░░░░░█████╗░░██╗░░░░░░░██╗
+                ██╔════╝██╔══██╗██║░░░░░██║░░░░░██╔══██╗░██║░░██╗░░██║
+                █████╗░░██║░░██║██║░░░░░██║░░░░░██║░░██║░╚██╗████╗██╔╝
+                ██╔══╝░░██║░░██║██║░░░░░██║░░░░░██║░░██║░░████╔═████║░
+                ██║░░░░░╚█████╔╝███████╗███████╗╚█████╔╝░░╚██╔╝░╚██╔╝░
+                ╚═╝░░░░░░╚════╝░╚══════╝╚══════╝░╚════╝░░░░╚═╝░░░╚═╝░░
+
+                               ᴛɪᴋᴛᴏᴋ.ᴄᴏᴍ/@ᴊᴜᴀɴɴғɪɢ01
+                            ᴡᴡᴡ.ʏᴏᴜᴛᴜʙᴇ.ᴄᴏᴍ/@ᴊᴜᴀɴɴғɪɢ01ʏᴛ
+                --------------------------------------------------------
+                --------------------------------------------------------
+
+
